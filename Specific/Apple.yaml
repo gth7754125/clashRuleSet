@@ -1,0 +1,23 @@
+payload:
+  # Apple
+  - '+.apple.com'
+  - '+.aaplimg.com'
+  - '+.akadns.net'
+  - '+.apple-cloudkit.com'
+  - 'apple.comscoreresearch.com'
+  - '+.apple.co'
+  - '+.apple.news'
+  - '+.appstore.com'
+  - '+.cdn-apple.com'
+  - '+.crashlytics.com'
+  - '+.itunes.com'
+  - '+.me.com'
+  - '+.mzstatic.com'
+  # > Apple TV
+  - '+.tv.apple.com'
+  - 'hls.itunes.apple.com'
+  - 'hls-amt.itunes.apple.com'
+  - 'play-edge.itunes.apple.com'
+
+
+  
