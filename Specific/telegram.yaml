@@ -1,3 +1,3 @@
 payload:
-  '+.telegra.ph'
-  '+.telegram.org'
+  - '+.telegra.ph'
+  - '+.telegram.org'
