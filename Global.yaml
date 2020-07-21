@@ -28,6 +28,10 @@ payload:
   - '+.pcpartpicker.com'
     # Hardware 
   - '+.cpubenchmark.net'
+  # Slack
+  - '+.slack-edge.com'
+  - '+.slack.com'
+  - '+.slack-msgs.com'
 # ----------------------------------------official ↓ -----------------------------
 # Github
   - '+.github.com,Proxy'
