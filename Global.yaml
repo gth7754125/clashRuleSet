@@ -60,8 +60,7 @@ payload:
   - '+.gvt2.com'
   - '+.gvt3.com'
   - '+.xn--ngstr-lra8j.com'
-  # Google-GCM-APP, clipcloud..
-  - '+.catchingnow.com'
+
     # Wiki
   - '+.wikipedia.org'
 
