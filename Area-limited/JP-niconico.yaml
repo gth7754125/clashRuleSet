@@ -1,8 +1,5 @@
 payload:
-# JP region
-  - '.jp'
 # > niconico
-  # USER-AGENT,Niconico*
   - '+.dmc.nico'
   - '+.nicovideo.jp'
   - '+.nimg.jp'

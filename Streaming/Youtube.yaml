@@ -1,0 +1,8 @@
+payload:
+  # youtube
+  - '+.googlevideo.com'
+  - '+.youtube.com'
+  - '+.youtu.be'
+  - '+.youtube-nocookie.com'
+  - '+.yt.be'
+  - '+.ytimg.com'

@@ -1,0 +1,6 @@
+payload:
+ # > Spotify
+  - '+.pscdn.co'
+  - '+.scdn.co'
+  - '+.spotify.com'
+  - '+.spoti.fi'
