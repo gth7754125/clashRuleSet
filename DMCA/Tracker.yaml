@@ -1,9 +1,5 @@
 payload:
 ## > Trackers
-  - '.torrent'
-  - '+.tracker'
-  - 'tracker.*'
-  - 'tracker.*.*'
   - '.awesome-hd.me'
   - '.broadcasthe.net'
   - '.classix-unlimited.co.uk'

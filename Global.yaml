@@ -34,12 +34,12 @@ payload:
   - '+.slack-msgs.com'
 # ----------------------------------------official ↓ -----------------------------
 # Github
-  - '+.github.com,Proxy'
-  - '+.github.io,Proxy'
-  - '+.githubapp.com,Proxy'
-  - '+.githubassets.com,Proxy'
-  - '+.githubusercontent.com,Proxy'
-  - '+.gitbook.io,Proxy'
+  - '+.github.com'
+  - '+.github.io'
+  - '+.githubapp.com'
+  - '+.githubassets.com'
+  - '+.githubusercontent.com'
+  - '+.gitbook.io'
 
 # Google
     # - DOMAIN-SUFFIX,google.com,Proxy
