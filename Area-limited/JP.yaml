@@ -1,5 +1,8 @@
 payload:
-# > niconico
+  - '.jp'
+  # DMM
+  - '+.dmm.com'
+  # > niconico
   - '+.dmc.nico'
   - '+.nicovideo.jp'
   - '+.nimg.jp'
