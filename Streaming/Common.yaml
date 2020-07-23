@@ -4,3 +4,6 @@ payload:
   - '+.ttvnw.net'
   - '+.twitch.tv'
   - '+.twitchcdn.net'
+  # Telegram
+  - '+.telegra.ph'
+  - '+.telegram.org'
