@@ -7,3 +7,5 @@ payload:
   - '+.nicovideo.jp'
   - '+.nimg.jp'
   - '+.socdm.com'
+  # Wani
+  - '+.wani.com'

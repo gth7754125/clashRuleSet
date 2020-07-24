@@ -14,3 +14,24 @@ payload:
   - '+.youtube-nocookie.com'
   - '+.yt.be'
   - '+.ytimg.com'
+  # > Amazon Prime Video
+  - '+.aiv-cdn.net'
+  - '+.aiv-delivery.net'
+  - '+.primevideo.com'
+  - '.akamaihd.net'
+  - '.cloudfront.net'
+  # For Porn
+  # > Pornhub
+  - '+.phncdn.com'
+  - '+.phprcdn.com'
+  - '+.pornhub.com'
+  - '+.pornhubpremium.com'
+  # Avgle
+  - '+.avgle.com'
+  # fc2 and relative sites
+  - '+.hpjav.tv'
+  - '+.fc2club.com'
+  # Blacked
+  - '+.blacked.com'
+  - 'secure2-images-blacked.ssl-cdn.com'
+  
