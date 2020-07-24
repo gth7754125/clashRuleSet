@@ -9,7 +9,7 @@ payload:
     # vgtime
   - '+.vgtime.com'
     # v2ex
-  # - DOMAIN-SUFFIX,v2ex.com,DIRECT
+  - '+.v2ex.com'
     # sspai
   - '+.sspai.com'
     # TSDM
@@ -19,8 +19,9 @@ payload:
   - '+.zhihu.com'
   - '+.zhimg.com'
     # 2dfan
-  - '2dfan.com'
-  - 'img.tdgujian.com'
+  - '+.2dfan.com'
+  - '+.img.tdgujian.com'
+  - '+.static.hdslb.com'
     # chiphell
   - '+.chiphell.com'
     # douban
@@ -37,6 +38,9 @@ payload:
     # SM-MS
   - 'loli.net'
   - '+.sm.ms'
+
+  # -------------------------------- try direct ----------------------->
+  - '+.appcenter.ms'
 
   # -----------------------------------------official -------------------->
   # Jetbrain

@@ -61,6 +61,12 @@ payload:
   - '+.gvt3.com'
   - '+.xn--ngstr-lra8j.com'
 
+# google-GCM-clipcloud
+  - '+.catchingnow.com'
+
+  # Adobe
+  - 'polka.typekit.com'  # Adobe creative cloud
+  
     # Wiki
   - '+.wikipedia.org'
 
@@ -74,6 +80,7 @@ payload:
   
     # Dropbox
   - '+.dropbox.com'
+  - '+.dropboxapi.com'
 
     # Microsoft
   - 'client.wns.windows.com'
