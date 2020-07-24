@@ -26,11 +26,21 @@ payload:
   - '+.phprcdn.com'
   - '+.pornhub.com'
   - '+.pornhubpremium.com'
+  # xvideo
+  - '+.xvideos.com'
+  - '+.xvideos-cdn.com'
+  - '.cdnegc.trafficfactory.biz'
   # Avgle
   - '+.avgle.com'
   # fc2 and relative sites
   - '+.hpjav.tv'
   - '+.fc2club.com'
+  # eroterest
+  - '+.eroterest.net'
+  - '+.eroimg.net'
+  - '+.bootstrapcdn.com'
+  - '+.media.gssp.asia'
+  - '+.gssprt.jp'
   # Blacked
   - '+.blacked.com'
   - 'secure2-images-blacked.ssl-cdn.com'
