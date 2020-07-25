@@ -66,6 +66,7 @@ payload:
 
   # Adobe
   - 'polka.typekit.com'  # Adobe creative cloud
+  - '+.adobess.com'
   
     # Wiki
   - '+.wikipedia.org'
