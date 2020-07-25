@@ -49,6 +49,7 @@ payload:
   - '+.app-measurement.net'
   - '+.g.co'
   - '+.ggpht.com'
+  - '+.appspot.com'
   - '+.goo.gl'
   - '+.googleapis.com'
   - '+.google-analytics.com'
@@ -57,9 +58,10 @@ payload:
   - '+.gstatic.com'
   - '+.gvt0.com'
   - '+.gvt1.com'
-  - '+.gvt2.com'
   - '+.gvt3.com'
+  - '+.getoutline.org'
   - '+.xn--ngstr-lra8j.com'
+
 
 # google-GCM-clipcloud
   - '+.catchingnow.com'

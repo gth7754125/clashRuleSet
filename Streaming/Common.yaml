@@ -14,12 +14,40 @@ payload:
   - '+.youtube-nocookie.com'
   - '+.yt.be'
   - '+.ytimg.com'
+  - '+.gvt2.com'
   # > Amazon Prime Video
   - '+.aiv-cdn.net'
   - '+.aiv-delivery.net'
   - '+.primevideo.com'
   - '.akamaihd.net'
   - '.cloudfront.net'
+
+  # > Facebook
+  - '+.cdninstagram.com'
+  - '+.fb.com'
+  - '+.fb.me'
+  - '+.fbaddins.com'
+  - '+.fbcdn.net'
+  - '+.fbsbx.com'
+  - '+.fbworkmail.com'
+  - '+.instagram.com'
+  - '+.m.me'
+  - '+.messenger.com'
+  - '+.oculus.com'
+  - '+.oculuscdn.com'
+  - '+.rocksdb.org'
+  - '+.whatsapp.com'
+  - '+.whatsapp.net'
+  # > Twitter
+  - '+.twitter.com'
+  - '+.pscp.tv'
+  - '+.periscope.tv'
+  - '+.t.co'
+  - '+.twimg.co'
+  - '+.twimg.com'
+  - '+.twitpic.com'
+  - '+.vine.co'
+
   # For Porn
   # > Pornhub
   - '+.phncdn.com'
