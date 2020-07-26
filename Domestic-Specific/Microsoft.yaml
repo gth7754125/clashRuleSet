@@ -3,8 +3,21 @@ payload:
   - '+.microsoft.com'
   - '+.msecnd.net'
   - '+.office365.com'
-  - '+.outlook.com'
   - '+.s-microsoft.com'
   - '+.visualstudio.com'
   - '+.windows.com'
   - '+.windowsupdate.com'
+
+  # outlook
+  - '+.outlook.com'
+  - '+.outlook.live.com'
+  - '+.cdn.office.net'
+  - '+.browser.pipe.aria.microsoft.com'
+  - '+.cdn.office.net'
+  - '+.gateway.messenger.live.com'
+
+  # Skype
+  - '+.cdn.skype.com'
+  - '+.edge.skype.com'
+  - '+.api.asm.skype.com'
+
