@@ -1,0 +1,10 @@
+payload:
+  # Microsoft
+  - '+.microsoft.com'
+  - '+.msecnd.net'
+  - '+.office365.com'
+  - '+.outlook.com'
+  - '+.s-microsoft.com'
+  - '+.visualstudio.com'
+  - '+.windows.com'
+  - '+.windowsupdate.com'

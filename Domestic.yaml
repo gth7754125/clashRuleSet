@@ -165,15 +165,6 @@ payload:
   - '+.miwifi.com'
   - '+.xiaomi.com'
   - '+.xiaomi.net'
-  # Microsoft
-  - '+.microsoft.com'
-  - '+.msecnd.net'
-  - '+.office365.com'
-  - '+.outlook.com'
-  - '+.s-microsoft.com'
-  - '+.visualstudio.com'
-  - '+.windows.com'
-  - '+.windowsupdate.com'
   #  NetEase
   - '+.163.com'
   - '+.126.com'
