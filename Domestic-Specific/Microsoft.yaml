@@ -1,18 +1,15 @@
 payload:
   # Microsoft
-  - '+.microsoft.com'
   - '+.msecnd.net'
   - '+.office365.com'
   - '+.s-microsoft.com'
   - '+.visualstudio.com'
   - '+.windows.com'
   - '+.windowsupdate.com'
-
-
+  - '+.spoprod-a.akamaihd.net'
   # outlook
   - '+.outlook.com'
   - '+.outlook.live.com'
-  - '+.browser.pipe.aria.microsoft.com'
   - '+.gateway.messenger.live.com'
 
   # Skype

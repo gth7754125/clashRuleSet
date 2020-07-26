@@ -1,4 +1,6 @@
 payload:
+  # Microsoft
+  - '+.browser.pipe.aria.microsoft.com'
   # Onedrive-global
   - '+.onedrive.live.com'
 
