@@ -1,0 +1,8 @@
+payload:
+  # Onedrive-global
+  - '+.onedrive.live.com'
+
+    # Office 365
+  - '+.office.com'
+  - '+.cdn.office.net'
+  - '+.officeapps.live.com'

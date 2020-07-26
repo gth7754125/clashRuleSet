@@ -8,12 +8,11 @@ payload:
   - '+.windows.com'
   - '+.windowsupdate.com'
 
+
   # outlook
   - '+.outlook.com'
   - '+.outlook.live.com'
-  - '+.cdn.office.net'
   - '+.browser.pipe.aria.microsoft.com'
-  - '+.cdn.office.net'
   - '+.gateway.messenger.live.com'
 
   # Skype
