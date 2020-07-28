@@ -1,5 +1,6 @@
 payload:
   - '.tw'
   # 巴哈姆特-动画疯
-  - 'ani.gamer.com.tw'
-  - 'gamer.com.tw'
+  - '+.gamer.com.tw'
+  - 'gamer-cds.cdn.hinet.net'
+  - 'gamer2-cds.cdn.hinet.net'

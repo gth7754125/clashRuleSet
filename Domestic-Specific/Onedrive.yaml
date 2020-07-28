@@ -1,3 +1,14 @@
 payload:
-  # Onedrive
-  - '+.storage.live.com'
+  # Onedrive - Domestic 
+  - '+.storage.live.com'  # upload !!!
+
+  - '+.livefilestore.com'
+  - '+.oneclient.sfx.ms'
+  - '+.onedrive.com'
+  - '+.onedrive.live.com'
+  - '+.photos.live.com'
+  - '+.sharepoint.com'
+  - '+.sharepointonline.com'
+  - '+.skydrive.wns.windows.com'
+  - '+.spoprod-a.akamaihd.net'
+  - '+.storage.msn.com'

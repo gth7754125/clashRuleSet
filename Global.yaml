@@ -11,6 +11,8 @@ payload:
   - '+.mikanani.me'
     # ailian
   - '+.kisssub.org'
+  # DMHY
+  - '+.dmhy.org'
     # PIXIV
   - '+.pixiv.net'
   - '+.pximg.net'
@@ -224,9 +226,9 @@ payload:
   - '+.linode.com'
   - '+.lithium.com'
   - '+.littlehj.com'
-  # - '+.live.com'
-  # - '+.live.net'
-  # - '+.livefilestore.com'
+  - '+.live.com'
+  - '+.live.net'
+  - '+.livefilestore.com'
   - '+.llnwd.net'
   - '+.macid.co'
   - '+.macromedia.com'
