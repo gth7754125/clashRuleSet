@@ -8,3 +8,7 @@ payload:
   - '+.office.com'
   - '+.cdn.office.net'
   - '+.officeapps.live.com'
+    # outlook
+  - '+.outlook.com'
+  - '+.outlook.live.com'
+  - '+.gateway.messenger.live.com'
