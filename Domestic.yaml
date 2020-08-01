@@ -38,6 +38,8 @@ payload:
     # SM-MS
   - 'loli.net'
   - '+.sm.ms'
+  # Hiby
+  - '+.hiby.com'
 
   # -------------------------------- try direct ----------------------->
   - '+.appcenter.ms'
