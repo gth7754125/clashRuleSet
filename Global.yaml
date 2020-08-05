@@ -34,6 +34,8 @@ payload:
   - '+.slack-edge.com'
   - '+.slack.com'
   - '+.slack-msgs.com'
+  # Firefox
+  - '+.getpocket.com'
 # ----------------------------------------official ↓ -----------------------------
 # Github
   - '+.github.com'
