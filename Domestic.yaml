@@ -29,6 +29,8 @@ payload:
   - '+.douban.com'
     # ehentai
   - '+.exhentai.org'
+   # south-plus
+  - 'summer-plus.net'
     # Coding
   - '+.nowcoder.com'
     # VCB

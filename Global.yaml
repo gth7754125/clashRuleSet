@@ -19,8 +19,6 @@ payload:
     # E-hentai
   - '+.e-hentai.org'
   - '+.ehgt.org'
-    # south-plus
-  - '+.south-plus.net'
     # nyaa
   - 'sukebei.nyaa.si'
     # mega
