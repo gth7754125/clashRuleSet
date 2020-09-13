@@ -11,7 +11,11 @@ payload:
   - '+.mikanani.me'
     # ailian
   - '+.kisssub.org'
-  # DMHY
+    # 2dfan
+  - '+.2dfan.com'
+  - '+.img.tdgujian.com'
+  - '+.static.hdslb.com'
+    # DMHY
   - '+.dmhy.org'
     # PIXIV
   - '+.pixiv.net'

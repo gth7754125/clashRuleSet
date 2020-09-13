@@ -18,10 +18,6 @@ payload:
     # zhihu
   - '+.zhihu.com'
   - '+.zhimg.com'
-    # 2dfan
-  - '+.2dfan.com'
-  - '+.img.tdgujian.com'
-  - '+.static.hdslb.com'
     # chiphell
   - '+.chiphell.com'
     # douban
