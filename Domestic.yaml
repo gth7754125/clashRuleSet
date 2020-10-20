@@ -21,8 +21,6 @@ payload:
     # douban
   - '+.doubanio.com'
   - '+.douban.com'
-    # ehentai
-  - '+.exhentai.org'
    # south-plus
   - 'summer-plus.net'
     # Coding
