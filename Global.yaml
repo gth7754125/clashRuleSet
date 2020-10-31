@@ -22,10 +22,6 @@ payload:
     # PIXIV
   - '+.pixiv.net'
   - '+.pximg.net'
-    # E-hentai
-  - '+.e-hentai.org'
-  - '+.ehgt.org'
-  - '+.exhentai.org'
     # nyaa
   - 'sukebei.nyaa.si'
     # mega
