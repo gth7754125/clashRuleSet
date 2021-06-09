@@ -1,0 +1,6 @@
+# > disney+
+payload:
+  # USER-AGENT,Argo*
+  - '+.disney.com'
+  - '+.lumiere-a.akamaihd.net'
+  - '+.cdnvideo.dolimg.com'
